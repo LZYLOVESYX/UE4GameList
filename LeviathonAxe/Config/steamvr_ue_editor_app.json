@@ -1,0 +1,18 @@
+{
+	"source": "UE",
+	"applications": [
+		{
+			"app_key": "application.generated.ue.leviathonaxe-10757647.ue4editor.exe",
+			"launch_type": "url",
+			"url": "steam://launch/",
+			"action_manifest_path": "D:/360MoveData/Users/nirvash/Desktop/UE4GameList/LeviathonAxe/Config/SteamVRBindings/steamvr_manifest.json",
+			"strings":
+			{
+				"en_us":
+				{
+					"name": "LeviathonAxe-10757647 [UE Editor]"
+				}
+			}
+		}
+	]
+}
